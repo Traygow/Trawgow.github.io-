@@ -5,7 +5,7 @@ GE 197: Spatial Data Engineering and Spatial Data Science
 ### Education
 - 2020, STEM-SHS, De La Salle University - Dasmarinas
 
-### Wokr Experience
+### Work Experience
 Intern, 2024, NDR Surveying Survices
 
 ### Projects
