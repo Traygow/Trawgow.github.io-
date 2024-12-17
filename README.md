@@ -2,8 +2,11 @@
 In partial fulfillment of
 GE 197: Spatial Data Engineering and Spatial Data Science
 
+Hello! Im Kenneth and Welcome to my Data Science Portfolio!
+
 ### Education
 - 2020, STEM-SHS, De La Salle University - Dasmarinas
+- 2025, BS Geodetic Engineering, University of the Philippines - Diliman
 
 ### Work Experience
 Intern, 2024, NDR Surveying Survices
